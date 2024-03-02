@@ -72,7 +72,7 @@ $ npm test
 ## People
 
 The original author of nodetopy3 is [Tanish Khandelwal](https://github.com/kt0601)
-For any issue you can open issue at github repo[nodetopy](https://github.com/KT0601/nodetopy);
+For any issue you can open issue at github repo [nodetopy](https://github.com/KT0601/nodetopy);
 
 
 
