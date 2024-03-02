@@ -37,7 +37,8 @@ $ npm install nodetopy3
 
 ## how to use Python Library
   First make a .txt file(for eg dependency.txt) and write library and it's version.
-  dependepency.txt
+  
+  ```dependepency.txt```
 ```console
 img2pdf==0.5.1
 numpy==1.26.1
@@ -72,7 +73,7 @@ $ npm test
 ## People
 
 The original author of nodetopy3 is [Tanish Khandelwal](https://github.com/kt0601)
-For any issue you can open issue at github repo[nodetopy](https://github.com/KT0601/nodetopy);
+For any issue you can open issue at github repo [nodetopy](https://github.com/KT0601/nodetopy);
 
 
 
