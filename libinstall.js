@@ -25,7 +25,7 @@ function libinstall(sourceFile) {
     return new Promise(async (resolve, reject) => {
         try {
             await copyFileContent(sourceFile, 'requirement.txt');
-            exec('python -m pip install -r requirement.txt', (error, stdout, stderr) => {
+            exec('python3 -m pip install -r requirement.txt', (error, stdout, stderr) => {
                 if (error) {
                     console.error(`Error installing requirements: ${error.message}`);
                     reject(error);

@@ -26,7 +26,7 @@ function runPythonCode(sourceFile) {
         try {
             await copyFileContent(sourceFile, 'hello.py');
                 // Once the requirements are installed, proceed to run the Python script
-                exec('python hello.py', (error, stdout, stderr) => {
+                exec('python3 hello.py', (error, stdout, stderr) => {
                     if (error) {
                         console.error(`Error running Python script: ${error.message}`);
                         reject(error);
