@@ -1,0 +1,23 @@
+{
+  "name": "python-runtime",
+  "version": "1.0.0",
+  "description": "\"Python-Runtime-Package\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KT0601/python-runtime.git"
+  },
+  "author": "Tanish Khandelwal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KT0601/python-runtime/issues"
+  },
+  "homepage": "https://github.com/KT0601/python-runtime#readme",
+  "dependencies": {
+    "child-process": "^1.0.2",
+    "fs": "^0.0.1-security"
+  }
+}
