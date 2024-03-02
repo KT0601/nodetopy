@@ -36,8 +36,9 @@ $ npm install nodetopy3
 
 
 ## how to use Python Library
-  First make a .txt file(for eg dependency.txt) and write library and it's version.
-  dependepency.txt
+First make a .txt file(for eg dependency.txt) and write library and it's version.
+  
+```dependepency.txt```
 ```console
 img2pdf==0.5.1
 numpy==1.26.1
