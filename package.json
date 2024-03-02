@@ -1,5 +1,5 @@
 {
-  "name": "python-runtime",
+  "name": "nodetopy3",
   "version": "1.0.0",
   "description": "\"Python-Runtime-Package\"",
   "main": "index.js",
